@@ -1,0 +1,15 @@
+.TodoRow{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid rgb(71,71,255);
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+
+.TodoRow span{
+    flex-grow: 1;
+    margin: 0 10px;
+}

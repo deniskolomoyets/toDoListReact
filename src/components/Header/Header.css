@@ -1,0 +1,13 @@
+.Header{
+    display: flex;
+    align-items:center;
+    margin-bottom: 10px;
+}
+
+.Header input{
+    display: block;
+    width: 100%;
+    flex-grow: 1;
+    padding: 5px;
+    font-size: 1rem;
+}
